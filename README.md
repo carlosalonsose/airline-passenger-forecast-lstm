@@ -50,7 +50,7 @@ The LSTM model successfully captures the trend and seasonality of the passenger 
 
 *Note: RMSE (Root Mean Squared Error) measures the average magnitude of the forecast error.*
 
-<img width="1000" height="500" alt="business_LTSM" src="https://github.com/user-attachments/assets/c8b004ef-60ba-477f-81db-068b0d50989a" />
+<img width="1000" height="500" alt="business_LTSM_EN" src="https://github.com/user-attachments/assets/338420dc-388e-46e2-836f-d1079b473b06" />
 > *Visualization of Model Predictions (Training & Test sets) vs. Actual Traffic.*
 
 ## Tech Stack
